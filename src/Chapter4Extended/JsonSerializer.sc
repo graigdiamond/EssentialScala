@@ -43,5 +43,7 @@ object test{
     JsObject(Seq(JsObjectPair("b",JsArray(Seq(JsObject(Seq(JsObjectPair("d",JsString("you fool")))))))))))))).asString
 }
 
+test.test1
+test.test2
 
 
